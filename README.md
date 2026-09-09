@@ -8,9 +8,9 @@ An end-to-end EDA on 25,180 hotel bookings across 10 locations and two hotel typ
 
 | File | Description |
 |---|---|
-| `Hotel_Booking_EDA.ipynb` | Full, executed analysis notebook — code, charts, and outputs |
-| `Executive_Hotel_Booking_EDA_Report.docx` | Executive-ready summary report with key visuals, insights, and recommendations |
-| `Day15_Executive_Hotel_Booking_EDA_Dataset.csv` | Source dataset |
+| [Hotel_Booking_EDA.ipynb](./Hotel_Booking_EDA.ipynb) | Full, executed analysis notebook — code, charts, and outputs |
+| [Executive_Hotel_Booking_EDA_Report.docx](./Executive_Hotel_Booking_EDA_Report.docx) | Executive-ready summary report with key visuals, insights, and recommendations |
+| [Day15_Executive_Hotel_Booking_EDA_Dataset.csv](./Day15_Executive_Hotel_Booking_EDA_Dataset.csv) | Source dataset |
 
 ## 🎯 Objective
 
